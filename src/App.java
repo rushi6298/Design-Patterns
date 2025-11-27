@@ -17,7 +17,7 @@ public class App {
         numberIncreasingReversePyramidPattern(num);
         System.out.println();
 
-        System.out.println("Number Changing  Pyramid Pattern");
+        System.out.println("Number Changing Pyramid Pattern");
         numberChangingPyramidPattern(num);
         System.out.println();
 
